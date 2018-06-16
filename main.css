@@ -1,0 +1,51 @@
+* {
+    font-family: 'Vollkorn', serif;
+}
+
+a {
+    color: #00abb4;
+}
+
+header {
+    /*border-bottom: 2px solid black;*/
+    background-color: #e9ecf0;
+    width: 100%;
+}
+
+header img .test {
+    max-height: 20px;
+}
+
+body {
+    background-color: #00abb4;
+
+}
+
+body a {
+    color: #00abb4;
+}
+
+.link-to-shop {
+    font-size: 20px;
+}
+
+main  h1, h3 {
+
+    margin-top: 20px;
+    /*margin: auto;*/
+    text-align: center;
+}
+
+.item-jumbotron {
+    color: white;
+}
+
+.item-jumbotron a {
+    color: #EEE8A9;
+    font-size: 20px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
