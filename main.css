@@ -36,6 +36,10 @@ main  h1, h3 {
     text-align: center;
 }
 
+.header-margin {
+    margin-top: 8px;
+}
+
 .item-jumbotron {
     color: white;
 }
